@@ -16,7 +16,7 @@ const Projects = () => {
                                 <h1  className="text-2xl font-extrabold">Coddeit</h1>
                                 <p className= "mb-4 mt-2"><span className='border border-green-500 p-1 px-2 rounded-lg text-gray-700 font-semibold text-xs'>Live</span></p>
                                 <p className='text-base font-normal leading-relaxed text-gray-600'>Coddeit is a practical coding platform focused on building real-world projects. It’s designed to teach by doing, helping students and entrepreneurs turn their ideas into deployable solutions, fast.</p>
-                              <a href="https://www.coddeit.site"> <button className='btn px-4 mt-4 p-2 outline-none bg-gradient-to-r from-yellow-400 to-orange-600 text-white font-bold'>Go to Site</button></a> 
+                              <a href="https://www.coddeit.site"> <button className='btn px-4 mt-4 p-2 focus:outline-none bg-gradient-to-r from-yellow-400 to-orange-600 text-white font-bold'>Go to Site</button></a> 
 
                             </div>
                         </div>
@@ -34,7 +34,7 @@ const Projects = () => {
                                 <h1 className="text-2xl font-extrabold ">Krypton</h1>
                                 <p className= "mb-4 mt-2"><span className='border border-amber-500 p-1 px-2 rounded-lg text-gray-700 font-semibold text-xs'>On Hold</span></p>
                                 <p className='text-base font-normal leading-relaxed text-gray-600'>Krypton is a digital solutions agency I founded in 2024, specializing in web and mobile development. We offer services like Web Development, App Development, Digital Marketing, and UI/UX Design, empowering businesses with innovative solutions to drive growth.</p>
-                               <a href="https://kryptonsite.netlify.app/"> <button className='btn px-4 mt-4 p-2 outline-none bg-gradient-to-r from-yellow-400 to-orange-600 text-white font-bold'>Go to Site</button></a>
+                               <a href="https://kryptonsite.netlify.app/"> <button className='btn px-4 mt-4 p-2 focus:outline-none bg-gradient-to-r from-yellow-400 to-orange-600 text-white font-bold'>Go to Site</button></a>
 
                             </div>
                         </div>
@@ -52,7 +52,7 @@ const Projects = () => {
                                 <h1 className="text-2xl font-extrabold ">GameStore</h1>
                                                                 <p className= "mb-4 mt-2"><span className='border border-black p-1 px-2 rounded-lg text-gray-700 font-semibold text-xs'>Casual</span></p>
                                 <p className='text-base font-normal leading-relaxed text-gray-600'>Game Store is a design exercise I created to practice design principles. The project showcases a user-friendly interface featuring popular mobile games, emphasizing clean layout and intuitive navigation.</p>
-                               <a href="https://gamestoreforfun.netlify.app/"> <button className='btn px-4 mt-4 p-2 outline-none bg-gradient-to-r from-yellow-400 to-orange-600 text-white font-bold'>Go to Site</button></a>
+                               <a href="https://gamestoreforfun.netlify.app/"> <button className='btn px-4 mt-4 p-2 focus:outline-none bg-gradient-to-r from-yellow-400 to-orange-600 text-white font-bold'>Go to Site</button></a>
 
                             </div>
                         </div>
@@ -70,7 +70,7 @@ const Projects = () => {
                                 <h1 className="text-2xl font-extrabold ">InLance</h1>
                                 <p className= "mb-4 mt-2"><span className='border border-blue-700 p-1 px-2 rounded-lg text-gray-700 font-semibold text-xs'>SIH</span></p>
                                 <p className='text-base font-normal leading-relaxed text-gray-600'>InLance is a platform I created for the Smart India Hackathon 2024 to connect freelancers with clients. It was developed as a prototype to demonstrate key features like a user-friendly interface, secure payments, and diverse project categories.</p>
-                                <a href="https://ashishkolhe.netlify.app/"><button className='btn px-4 mt-4 p-2 outline-none bg-gradient-to-r from-yellow-400 to-orange-600 text-white font-bold'>Go to Site</button></a>
+                                <a href="https://ashishkolhe.netlify.app/"><button className='btn px-4 mt-4 p-2 focus:outline-none bg-gradient-to-r from-yellow-400 to-orange-600 text-white font-bold'>Go to Site</button></a>
 
                             </div>
                         </div>

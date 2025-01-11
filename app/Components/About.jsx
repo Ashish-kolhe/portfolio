@@ -22,21 +22,21 @@ I’m always open to new challenges. If you have an opportunity that aligns with
   </div>
     <div className='max-w-sm mt-10 lg:mt-0 lg:ml-10 '>
       <h1 className="text-2xl font-extrabold mb-4 text-gray-800">My Skills!</h1>
-      <kbd className="kbd kbd-md m-2 font-sans font-semibold bg-white hover:shadow-md ">HTML</kbd>
-      <kbd className="kbd kbd-md m-2 font-sans font-semibold bg-white hover:shadow-md">CSS</kbd>
-      <kbd className="kbd kbd-md m-2 font-sans font-semibold bg-white hover:shadow-md">JavaScript</kbd>
-      <kbd className="kbd kbd-md m-2 font-sans font-semibold bg-white hover:shadow-md">Next.js</kbd>
-      <kbd className="kbd kbd-md m-2 font-sans font-semibold bg-white hover:shadow-md">React</kbd>
-      <kbd className="kbd kbd-md m-2 font-sans font-semibold bg-white hover:shadow-md">OAuth</kbd>
-      <kbd className="kbd kbd-md m-2 font-sans font-semibold bg-white hover:shadow-md">DaisyUI</kbd>
+      <kbd className="kbd kbd-md m-2 font-sans font-semibold text-orange-500 bg-white hover:shadow-md ">HTML</kbd>
+      <kbd className="kbd kbd-md m-2 font-sans font-semibold text-blue-700 bg-white hover:shadow-md">CSS</kbd>
+      <kbd className="kbd kbd-md m-2 font-sans font-semibold text-yellow-500 bg-white hover:shadow-md">JavaScript</kbd>
+      <kbd className="kbd kbd-md m-2 font-sans font-semibold text-black bg-white hover:shadow-md">Next.js</kbd>
+      <kbd className="kbd kbd-md m-2 font-sans font-semibold text-sky-600 bg-white hover:shadow-md">React</kbd>
+      <kbd className="kbd kbd-md m-2 font-sans font-semibold text-purple-700 bg-white hover:shadow-md">OAuth</kbd>
+      <kbd className="kbd kbd-md m-2 font-sans font-semibold text-cyan-500 bg-white hover:shadow-md">DaisyUI</kbd>
      
-      <kbd className="kbd kbd-md m-2 font-sans font-semibold bg-white hover:shadow-md">GitHub</kbd>
-      <kbd className="kbd kbd-md m-2 font-sans font-semibold bg-white hover:shadow-md">Tailwind CSS</kbd>
-      <kbd className="kbd kbd-md m-2 font-sans font-semibold bg-white hover:shadow-md">Vercel</kbd>
-      <kbd className="kbd kbd-md m-2 font-sans font-semibold bg-white hover:shadow-md">SEO</kbd>
+      <kbd className="kbd kbd-md m-2 font-sans font-semibold text-black bg-white hover:shadow-md">GitHub</kbd>
+      <kbd className="kbd kbd-md m-2 font-sans font-semibold text-blue-700 bg-white hover:shadow-md">Tailwind CSS</kbd>
+      <kbd className="kbd kbd-md m-2 font-sans font-semibold text-black bg-white hover:shadow-md">Vercel</kbd>
+      <kbd className="kbd kbd-md m-2 font-sans font-semibold text-sky-900 bg-white hover:shadow-md">SEO</kbd>
       
-      <kbd className="kbd kbd-md m-2 font-sans font-semibold bg-white hover:shadow-md">Razorpay</kbd>
-      <kbd className="kbd kbd-md m-2 font-sans font-semibold bg-white hover:shadow-md">Responsive Design</kbd>
+      <kbd className="kbd kbd-md m-2 font-sans font-semibold text-blue-700 bg-white hover:shadow-md">Razorpay</kbd>
+      <kbd className="kbd kbd-md m-2 font-sans font-semibold text-slate-900 bg-white hover:shadow-md">Responsive Design</kbd>
     </div>
   </div>
 </div> 
