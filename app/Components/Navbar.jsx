@@ -3,7 +3,7 @@ import React from 'react'
 const Navbar = () => {
   return (
     <div>
-        <div className="navbar bg-base-100 px-5 ">
+        <div className="navbar bg-white px-5 ">
   <div className="navbar-start">
    <img className='w-10 lg:w-12 rounded-full m-1' src="./Ashish.jpg" alt="" />
     <a className="text-base lg:text-xl font-extrabold text-gray-800">Ashish Kolhe</a>

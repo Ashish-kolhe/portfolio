@@ -14,7 +14,7 @@ const Hero = () => {
       
       <p className='lg:text-xl lg:font-semibold text-gray-800 lg:mt-10 text-md mt-4 font-medium'>I prefer creating functional products over chasing certifications.</p>
      
-     <a href="#projects"> <button className='btn mt-8 px-10 py-2 bg-gradient-to-r from-yellow-400 to-orange-600 text-white text-lg font-bold'>PROJECTS</button></a>
+     <a href="#projects"> <button className='btn mt-8 px-10 py-2 outline-none bg-gradient-to-r from-yellow-400 to-orange-600 text-white text-lg font-bold'>PROJECTS</button></a>
       <div className='flex justify-center mt-4'>
       <img className='w-24 ml-14' src="./arrow.png" alt="" />
       </div>
