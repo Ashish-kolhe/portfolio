@@ -16,7 +16,11 @@ const Projects = () => {
                                 <h1  className="text-2xl font-extrabold">Coddeit</h1>
                                 <p className= "mb-4 mt-2"><span className='border border-green-500 p-1 px-2 rounded-lg text-gray-700 font-semibold text-xs'>Live</span></p>
                                 <p className='text-base font-normal leading-relaxed text-gray-600'>Coddeit is a practical coding platform focused on building real-world projects. It’s designed to teach by doing, helping students and entrepreneurs turn their ideas into deployable solutions, fast.</p>
-                              <a href="https://www.coddeit.site"> <button className='btn px-4 mt-4 p-2 focus:outline-none bg-gradient-to-r from-yellow-400 to-orange-600 text-white font-bold'>Go to Site</button></a> 
+                                <a 
+  href="https://www.coddeit.site" 
+  className='btn mt-8 px-10 py-2 focus:outline-none bg-gradient-to-r from-yellow-400 to-orange-600 text-white text-lg font-bold block text-center'>
+Go to Site 
+</a>
 
                             </div>
                         </div>
