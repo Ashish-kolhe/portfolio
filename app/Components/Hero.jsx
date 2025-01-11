@@ -16,7 +16,7 @@ const Hero = () => {
      
       <a 
   href="#projects" 
-  className='btn mt-8 px-10 py-2 focus:outline-none bg-gradient-to-r from-yellow-400 to-orange-600 text-white text-lg font-bold block text-center'>
+  className='btn mt-8 px-10 py-2 outline-0 bg-gradient-to-r from-yellow-400 to-orange-600 text-white text-lg font-bold block text-center'>
  <span className=''>PROJECTS</span> 
 </a>
       <div className='flex justify-center mt-4'>

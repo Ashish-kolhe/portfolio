@@ -18,7 +18,7 @@ const Projects = () => {
                                 <p className='text-base font-normal leading-relaxed text-gray-600'>Coddeit is a practical coding platform focused on building real-world projects. It’s designed to teach by doing, helping students and entrepreneurs turn their ideas into deployable solutions, fast.</p>
                                 <a 
   href="https://www.coddeit.site" 
-  className='btn mt-8 px-10 py-2 focus:outline-none bg-gradient-to-r from-yellow-400 to-orange-600 text-white text-lg font-bold block text-center'>
+  className='btn mt-8 px-10 py-2 outline-0 bg-gradient-to-r from-yellow-400 to-orange-600 text-white text-lg font-bold block text-center'>
 Go to Site 
 </a>
 
