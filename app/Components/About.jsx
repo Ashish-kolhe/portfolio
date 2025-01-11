@@ -18,7 +18,11 @@ I share the insights I’ve picked up along the way, helping others in the dev c
 <br />
 <br />
 I’m always open to new challenges. If you have an opportunity that aligns with my skills, where I can contribute, learn, and grow, don’t hesitate to reach out!</p>
-<a href="#contact"><button className='btn px-4 mt-4 p-2 bg-gradient-to-r from-yellow-400 to-orange-600 text-white font-bold'>CONTACT</button></a>
+<a 
+  href="#contact" 
+  className='btn mt-8 px-10 py-2 border-none bg-gradient-to-r from-yellow-400 to-orange-600 text-white text-lg font-bold block text-center'>
+CONTACT
+</a>
   </div>
     <div className='max-w-sm mt-10 lg:mt-0 lg:ml-10 '>
       <h1 className="text-2xl font-extrabold mb-4 text-gray-800">My Skills!</h1>
