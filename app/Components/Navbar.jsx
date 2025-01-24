@@ -6,7 +6,7 @@ const Navbar = () => {
         <div className="navbar bg-white px-5 ">
   <div className="navbar-start">
    <img className='w-10 lg:w-12 rounded-full m-1' src="./Ashish.jpg" alt="" />
-    <a className="text-base lg:text-xl font-extrabold text-gray-800">Ashish Kolhe</a>
+    <a className="text-base lg:text-xl font-extrabold text-gray-800" >Coddeit</a>
   </div>
   <div className="navbar-center hidden lg:flex">
     <ul className="menu menu-horizontal px-1 font-semibold text-gray-800">

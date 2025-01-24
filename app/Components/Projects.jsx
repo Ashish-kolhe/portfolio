@@ -4,7 +4,7 @@ const Projects = () => {
     return (
         <div id='projects' className='bg-white mb-10'>
             <h1 className='text-center font-extrabold text-gray-800 text-3xl mt-10 '>PROJECTS <br /><span className='font-mono text-5xl bg-gradient-to-r from-yellow-400 to-orange-600 bg-clip-text text-transparent'>-</span></h1>
-            <p className='text-center font-semibold text-gray-700 text-md lg:mb-0 mb-4 px-8 lg:px-32'>Here you will find more information about me, what I do, and my current skills mostly in terms of programming and technology</p>
+            <p className='text-center font-semibold text-gray-700 text-md lg:mb-0 mb-4 px-8 lg:px-32'>A glimpse into my creative and technical projects.</p>
             <div className='flex justify-center'>
                 <div className='max-w-5xl'>
                     <div id='coddeit' className="hero bg-white py-10  lg:p-10">
@@ -36,7 +36,7 @@ Go to Site
                             </div>
                             <div className='max-w-sm mt-10 lg:mt-0 lg:ml-10 '>
                                 <h1 className="text-2xl font-extrabold ">Krypton</h1>
-                                <p className= "mb-4 mt-2"><span className='border border-amber-500 p-1 px-2 rounded-lg text-gray-700 font-semibold text-xs'>On Hold</span></p>
+                                <p className= "mb-4 mt-2"><span className='border border-red-500 p-1 px-2 rounded-lg text-gray-700 font-semibold text-xs'>Discontinued</span></p>
                                 <p className='text-base font-normal leading-relaxed text-gray-600'>Krypton is a digital solutions agency I founded in 2024, specializing in web and mobile development. We offer services like Web Development, App Development, Digital Marketing, and UI/UX Design, empowering businesses with innovative solutions to drive growth.</p>
                                 <a 
   href="https://kryptonsite.netlify.app" 
