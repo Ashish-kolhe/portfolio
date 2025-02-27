@@ -31,12 +31,12 @@ CONTACT
       <kbd className="kbd kbd-md m-2 font-sans font-semibold text-purple-700 bg-white hover:shadow-md">OAuth</kbd>
       <kbd className="kbd kbd-md m-2 font-sans font-semibold text-cyan-500 bg-white hover:shadow-md">DaisyUI</kbd>
      
-      <kbd className="kbd kbd-md m-2 font-sans font-semibold text-black bg-white hover:shadow-md">GitHub</kbd>
+
       <kbd className="kbd kbd-md m-2 font-sans font-semibold text-blue-700 bg-white hover:shadow-md">Tailwind CSS</kbd>
       <kbd className="kbd kbd-md m-2 font-sans font-semibold text-black bg-white hover:shadow-md">Vercel</kbd>
       <kbd className="kbd kbd-md m-2 font-sans font-semibold text-sky-900 bg-white hover:shadow-md">SEO</kbd>
       
-      <kbd className="kbd kbd-md m-2 font-sans font-semibold text-blue-700 bg-white hover:shadow-md">Razorpay</kbd>
+
       <kbd className="kbd kbd-md m-2 font-sans font-semibold text-slate-900 bg-white hover:shadow-md">Responsive Design</kbd>
     </div>
   </div>

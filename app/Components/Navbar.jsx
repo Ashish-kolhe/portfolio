@@ -6,10 +6,10 @@ const Navbar = () => {
         <div className="navbar bg-white px-5 ">
   <div className="navbar-start">
    <img className='w-10 lg:w-12 rounded-full m-1' src="./Ashish.jpg" alt="" />
-    <a className="text-base lg:text-xl font-extrabold text-gray-800" >Coddeit</a>
+    <a className="text-base lg:text-xl font-extrabold text-gray-800" >ASHISH</a>
   </div>
   <div className="navbar-center hidden lg:flex">
-    <ul className="menu menu-horizontal px-1 font-semibold text-gray-800">
+    <ul className="menu menu-horizontal px-1 font-semibold text-gray-800 z-50">
       <li><a href='#about'>About</a></li>
       <li>
         <details>
@@ -19,6 +19,7 @@ const Navbar = () => {
             <li><a href='#krypton'>Krypton</a></li>
             <li><a href='#gamestore'>Gamestore</a></li>
             <li><a href='#inlance'>InLance</a></li>
+            <li><a href='#selfstudy'>SelfStudy</a></li>
           </ul>
         </details>
       </li>
@@ -52,6 +53,7 @@ const Navbar = () => {
             <li><a href='#krypton'>Krypton</a></li>
             <li><a href='#gamestore'>Gamestore</a></li>
             <li><a href='#inlance'>InLance</a></li>
+            <li><a href='#selfstudy'>SelfStudy</a></li>
           </ul>
         </li>
         <li><a href='#contact'>Contact</a></li>
