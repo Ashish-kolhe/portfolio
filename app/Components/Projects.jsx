@@ -39,7 +39,7 @@ const Projects = () => {
                                 <p className="mb-4 mt-2"><span className='border border-green-500 p-1 px-2 rounded-lg text-gray-700 font-semibold text-xs'>Working..</span></p>
                                 <p className='text-base font-normal leading-relaxed text-gray-600'>Krypton is a digital solutions agency I founded in 2024, specializing in web and mobile development. We offer services like Web Development, App Development, Digital Marketing, and UI/UX Design, empowering businesses with innovative solutions to drive growth.</p>
                                 <a
-                                    href="https://kryptonsite.netlify.app"
+                                    href="https://kryptonsite.vercel.app"
                                     className='btn mt-8 px-10 py-2 border-none bg-gradient-to-r from-green-400 to-green-700 text-white text-lg font-bold block text-center hover:shadow-lg hover:shadow-green-700'>
                                     Go to Site
                                 </a>
